@@ -1,1 +1,33 @@
-(function(_0x25d41c,_0x53bee0){const _0x33d93e=_0x5df0,_0x2c396a=_0x25d41c();while(!![]){try{const _0x49c528=parseInt(_0x33d93e(0x149))/0x1*(parseInt(_0x33d93e(0x144))/0x2)+parseInt(_0x33d93e(0x15a))/0x3*(parseInt(_0x33d93e(0x140))/0x4)+-parseInt(_0x33d93e(0x15c))/0x5+parseInt(_0x33d93e(0x158))/0x6+-parseInt(_0x33d93e(0x146))/0x7*(parseInt(_0x33d93e(0x155))/0x8)+-parseInt(_0x33d93e(0x145))/0x9*(parseInt(_0x33d93e(0x163))/0xa)+-parseInt(_0x33d93e(0x15b))/0xb;if(_0x49c528===_0x53bee0)break;else _0x2c396a['push'](_0x2c396a['shift']());}catch(_0x1f65c0){_0x2c396a['push'](_0x2c396a['shift']());}}}(_0xe8c6,0xa543d));const _0x4f299d=(function(){let _0x11a551=!![];return function(_0x1c8abd,_0x4ba9d4){const _0x4f92fd=_0x11a551?function(){const _0x1d912c=_0x5df0;if(_0x4ba9d4){const _0x36d7c2=_0x4ba9d4[_0x1d912c(0x15e)](_0x1c8abd,arguments);return _0x4ba9d4=null,_0x36d7c2;}}:function(){};return _0x11a551=![],_0x4f92fd;};}()),_0x3c2fa4=_0x4f299d(this,function(){const _0x248038=_0x5df0;return _0x3c2fa4[_0x248038(0x148)]()[_0x248038(0x167)](_0x248038(0x150))[_0x248038(0x148)]()[_0x248038(0x14c)](_0x3c2fa4)[_0x248038(0x167)](_0x248038(0x150));});_0x3c2fa4();const _0x3042dc=(function(){let _0x4fd0f5=!![];return function(_0x154a1d,_0x1aebff){const _0x337d38=_0x4fd0f5?function(){const _0x168c3f=_0x5df0;if(_0x1aebff){const _0x5eceb2=_0x1aebff[_0x168c3f(0x15e)](_0x154a1d,arguments);return _0x1aebff=null,_0x5eceb2;}}:function(){};return _0x4fd0f5=![],_0x337d38;};}()),_0x540688=_0x3042dc(this,function(){const _0x2d0f8e=_0x5df0,_0x49be18=typeof window!=='undefined'?window:typeof process==='object'&&typeof require===_0x2d0f8e(0x161)&&typeof global===_0x2d0f8e(0x15f)?global:this,_0x4fbda4=_0x49be18[_0x2d0f8e(0x165)]=_0x49be18['console']||{},_0xe86a6d=['log',_0x2d0f8e(0x141),_0x2d0f8e(0x166),_0x2d0f8e(0x159),_0x2d0f8e(0x14e),_0x2d0f8e(0x15d),'trace'];for(let _0x23c62f=0x0;_0x23c62f<_0xe86a6d[_0x2d0f8e(0x153)];_0x23c62f++){const _0x8959b4=_0x3042dc[_0x2d0f8e(0x14c)][_0x2d0f8e(0x152)][_0x2d0f8e(0x157)](_0x3042dc),_0x3d1b53=_0xe86a6d[_0x23c62f],_0x229c2b=_0x4fbda4[_0x3d1b53]||_0x8959b4;_0x8959b4[_0x2d0f8e(0x160)]=_0x3042dc[_0x2d0f8e(0x157)](_0x3042dc),_0x8959b4[_0x2d0f8e(0x148)]=_0x229c2b[_0x2d0f8e(0x148)][_0x2d0f8e(0x157)](_0x229c2b),_0x4fbda4[_0x3d1b53]=_0x8959b4;}});function _0xe8c6(){const _0x170cca=['toFormat','exception','jpeg','(((.+)+)+)+$','4:4:4','prototype','length','grayscale','128712twRtdA','x-bytes-saved','bind','5239176vXyssi','error','2792931AtYqSd','10995754TxPwiC','1139805sffZdy','table','apply','object','__proto__','function','webp','40nLOpSL','size','console','info','search','send','4mtNXmY','warn','header','x-original-size','8CGmwrE','192519MCdBri','287xfKkZi','content-type','toString','211385jTRxdn','image/','content-length','constructor'];_0xe8c6=function(){return _0x170cca;};return _0xe8c6();}_0x540688();function _0x5df0(_0x3b2a04,_0x135fe5){const _0x3846cf=_0xe8c6();return _0x5df0=function(_0x540688,_0x3042dc){_0x540688=_0x540688-0x13f;let _0x3aa71f=_0x3846cf[_0x540688];return _0x3aa71f;},_0x5df0(_0x3b2a04,_0x135fe5);}import _0xd91f9b from'sharp';import{redirect}from'./rrd.js';export async function compressImg(_0x3eba81,_0x3fe3e7,_0x3f876c){const _0x19459d=_0x5df0,{webp:_0x5a194e,grayscale:_0x28d582,quality:_0x14b042,originSize:_0x5bda27}=_0x3eba81['params'],_0x20932a=_0x5a194e?_0x19459d(0x162):_0x19459d(0x14f);try{let _0x197b9b=_0xd91f9b(_0x3f876c)[_0x19459d(0x154)](_0x28d582)[_0x19459d(0x14d)](_0x20932a,{'quality':_0x14b042,'progressive':!![],'optimizeScans':_0x5a194e,'chromaSubsampling':_0x5a194e?_0x19459d(0x151):'4:2:0'});const {data:_0x2415bc,info:_0x51fdd4}=await _0x197b9b['toBuffer']({'resolveWithObject':!![]});_0x3fe3e7[_0x19459d(0x142)](_0x19459d(0x147),_0x19459d(0x14a)+_0x20932a)[_0x19459d(0x142)](_0x19459d(0x14b),_0x51fdd4[_0x19459d(0x164)])[_0x19459d(0x142)](_0x19459d(0x143),_0x5bda27)['header'](_0x19459d(0x156),_0x5bda27-_0x51fdd4['size'])['code'](0xc8)[_0x19459d(0x13f)](_0x2415bc);}catch(_0x1d1037){return redirect(_0x3eba81,_0x3fe3e7);}}
+import sharp from 'sharp';
+import { redirect } from './rrd.js';
+
+export async function compressImg(request, reply, imgData) {
+    const { webp, grayscale, quality, originSize } = request.params;
+    const imgFormat = webp ? 'webp' : 'jpeg';
+
+    try {
+        // Create the sharp instance and start the pipeline
+        let sharpInstance = sharp(imgData)
+            .grayscale(grayscale) // Apply grayscale conditionally
+            .toFormat(imgFormat, {
+                quality, // Use the provided quality
+                progressive: true,
+                optimizeScans: webp, // Optimize scans only for WebP
+                chromaSubsampling: webp ? '4:4:4' : '4:2:0', // Conditional chroma subsampling
+            });
+
+        // Convert to buffer and get info
+        const { data, info } = await sharpInstance.toBuffer({ resolveWithObject: true });
+
+        // Send response with appropriate headers
+        reply
+            .header('content-type', `image/${imgFormat}`)
+            .header('content-length', info.size)
+            .header('x-original-size', originSize)
+            .header('x-bytes-saved', originSize - info.size)
+            .code(200)
+            .send(data);
+    } catch (error) {
+        return redirect(request, reply);
+    }
+}
