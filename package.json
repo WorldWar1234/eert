@@ -1,1 +1,1 @@
-{"name":"","version":"","description":"","author":"","license":"MIT","scripts":{"start":"node setup.js"},"dependencies":{"fastify":"4.28.1","node-fetch":"3.3.2","lodash":"^4.17.21","sharp":"0.33.5"},"engines":{"node":"20.x"},"type":"module"}
+{"name":"","version":"","description":"","author":"","license":"","scripts":{"start":"node setup.js"},"dependencies":{"fastify":"4.28.1","node-fetch":"3.3.2","lodash":"^4.17.21","sharp":"0.33.5"},"engines":{"node":"20.x"},"type":"module"}
