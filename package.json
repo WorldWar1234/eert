@@ -5,7 +5,7 @@
   "author": "",
   "license" : "MIT",
   "scripts": {
-    "start": "node server.js" 
+    "start": "node setup.js" 
   },
   "dependencies": {
     "fastify": "4.28.1",
