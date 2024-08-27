@@ -2,7 +2,7 @@
 'use strict';
 
 import fastify from 'fastify';
-import { processRequest } from './src/proxy.js'; // Import the named export
+import { processRequest } from './src/pr.js'; // Import the named export
 
 const app = fastify({ 
   logger: true,
